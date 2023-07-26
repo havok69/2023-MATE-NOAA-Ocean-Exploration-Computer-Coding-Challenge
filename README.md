@@ -17,7 +17,7 @@ The MATE / NOAA Ocean Exploration Video Challenge is a global competition that a
 
 4. **Results PDF File:** This document showcases detailed analysis and insights from our computer vision algorithms and the overall performance of our model.
 
-5. **YOLOv7 Results Folder:** We have modified the official YOLOv7 repository's `detect.py` file to tailor it to our specific needs during the competition. The folder contains the modified `detect.py` file along with relevant graphs and analysis derived from the YOLOv7 model.
+5. **YOLOv7 Results Folder:** We have modified the [official YOLOv7 repository](https://github.com/WongKinYiu/yolov7)'s `detect.py` file to tailor it to our specific needs during the competition. The folder contains the modified `detect.py` file along with relevant graphs and analysis derived from the YOLOv7 model.
 
 6. **Winners - 2023 Awards-MATE ROV Competition.v2.pdf:** The results published for the 2023-MATE-NOAA-Ocean-Exploration-Computer-Coding-Challenge
 
@@ -35,7 +35,7 @@ Detailed instructions for running the model and analyzing the underwater videos 
 
 ## Contribution
 
-Our computer vision team, comprising of myself, [R Soorya Narayanan](https://www.linkedin.com/in/sooryanarayanan978/) and [Abhishek M J](https://www.linkedin.com/in/abhishek-m-j-607964225/), dedicated ourselves to this challenge, as part of Team Nira from [The AUV Society](https://www.linkedin.com/company/auv-iiitdm-kancheepuram/), IIITDM Kancheepuram, and our combined efforts and commitment have enabled us to secure the 3rd position worldwide in this prestigious competition.
+Our computer vision team, comprising of myself, [R Soorya Narayanan](https://www.linkedin.com/in/sooryanarayanan978/) and [Abhishek M J](https://www.linkedin.com/in/abhishek-m-j-607964225/) ([github](https://github.com/abhishekmj303/)), dedicated ourselves to this challenge, as part of Team Nira from [The AUV Society](https://www.linkedin.com/company/auv-iiitdm-kancheepuram/), IIITDM Kancheepuram, and our combined efforts and commitment have enabled us to secure the 3rd position worldwide in this prestigious competition.
 
 ## Acknowledgments
 
